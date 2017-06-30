@@ -1,0 +1,615 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 7, 2017, 1:40:43 AM
+    Author     : Rifat
+*/
+/*bullsy-top*/
+.wrapper{
+    width: 1600px;
+    margin: 0 auto;
+}
+.bullsy_top{
+    padding-top: 15px;
+}
+.phone{}
+.email{
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.bullsy_top_menu{
+    padding-top: 5px;
+}
+.bullsy_top_menu>ul{
+
+}
+.bullsy_top_menu>ul>li{
+    padding-right: 20px;
+}
+.bullsy_top_menu>ul>li>a{
+    font-family: 'Lato', sans-serif;
+    color: black;
+}
+
+/*bullsy-top*/
+
+/*bullsy-logo*/
+
+.bullsy_logo{
+    background: #f5f6f1;
+    min-height: 180px;
+}
+.img1{
+
+    padding-top: 63px;
+}
+.span{
+    padding-left: 14px;
+}
+.img1>img{}
+.logo{
+    padding-top: 75px;
+    padding-right: 7em;
+}
+.logo>ul{}
+.logo>ul>li{}
+.logo>ul>li>a{
+    color: black;
+    font-size: 15px;
+}
+.logo2{
+    padding-top: 70px;
+    padding-left: 17em;
+}
+.logo2>img{}
+
+
+/*bullsy-logo*/
+
+/*bullsy banner*/
+
+.bullsy_banner{
+}
+.banner{
+    background: url(../image/bg-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 707px;
+}
+.bullsy_banner_contant{}
+.bullsy_banner_contant>h1{
+    color: white;
+    white-space: pre-line;
+    font-family: 'Oswald', sans-serif;
+    font-size: 55px;
+    line-height: 100px;
+    padding-left: 100px;
+    letter-spacing: 5px;
+}
+.company_services{
+    padding: 35px 0;
+}
+.shipping{
+    padding-left: 0;
+    padding-right: 20px;
+}
+.thumbnail_backgroung{
+    background:#f5f6f1;
+    margin: 0;
+}
+.shipping>h1{
+    font-family: 'Oswald', sans-serif;
+}
+.shipping>p{
+    font-family: 'Lato', sans-serif;
+}
+.shoe{}
+.shoe>h1{
+    font-family: 'Oswald', sans-serif;
+}
+.shoe>p{
+    font-family: 'Lato', sans-serif;
+}
+.money{
+    padding-right: 0;
+    padding-left: 20px;
+}
+.money>h1{
+    font-family: 'Oswald', sans-serif;
+}
+.money>p{
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+/*bullsy banner*/
+
+/*shoe categories*/
+
+.shoes_categories{
+    background: #f8f8f8;
+    min-height: 790px;
+}
+.heading{
+    padding: 0;
+}
+.heading>h1{
+    font-family: 'Oswald', sans-serif;
+}
+.hr1{
+    margin-top: -36px;
+    border: 1px solid black;
+    display: block;
+    margin-bottom: 0;
+}
+.hr2{
+    margin: 0;
+    border: 1px solid black;
+    margin-top: -4px;
+}
+.hr3{
+    margin-top: -36px;
+    border: 1px solid black;
+    display: block;
+    margin-bottom: 0;
+}
+.hr4{
+    margin: 0;
+    border: 1px solid black;
+    margin-top: -4px;
+}
+.hr5{
+    margin-top: 4px;
+}
+.hr6{
+    margin-top: 4px;
+}
+.hr7{
+    margin-top: -15px;
+}
+.hr8{
+    margin-top: -15px;
+}
+.left{
+    padding: 0 10px 0 0;
+}
+.right{
+    padding: 0 0 0 10px;
+}
+.shoes_collection{
+    padding: 25px 0 0 0;
+}
+.snickers{
+    padding-left: 0;
+
+
+}
+.running_shoes{
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+.mountain_shoes{
+    padding-right: 0;
+
+}
+.thumbnail_shoes{}
+.thumbnail_shoes>img{
+    margin: 0;
+    padding: 0;
+}
+.thumbnail_shoes>h1{
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    padding-top: 17.5em;
+    padding-left: 17px;
+}
+.thumbnail_shoes>p{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    white-space: pre-line;
+    padding-top: 15px;
+    padding-left: 18px;
+    font-style: italic;
+}
+.thumbnail_shoes>h6{
+    margin: 0;
+    font-size: 22px;
+    font-family: 'Lato', sans-serif;
+    padding-left: 18px;
+    padding-bottom: 20px;
+}
+
+
+/*shoe categories*/
+
+/*latest arrivals*/
+
+.latest_arrivals{
+    background: #fdfdfd;
+    min-height: 560px;
+}
+.heading{
+    padding: 0;
+}
+.heading>h1{
+    font-family: 'Oswald', sans-serif;
+}
+.hr1{
+    margin-top: -36px;
+    border: 1px solid black;
+    display: block;
+    margin-bottom: 0;
+}
+.hr2{
+    margin: 0;
+    border: 1px solid black;
+    margin-top: -4px;
+}
+.hr3{
+    margin-top: -36px;
+    border: 1px solid black;
+    display: block;
+    margin-bottom: 0;
+}
+.hr4{
+    margin: 0;
+    border: 1px solid black;
+    margin-top: -4px;
+}
+.hr5{
+    margin-top: 4px;
+}
+.hr6{
+    margin-top: 4px;
+}
+.hr7{
+    margin-top: -15px;
+}
+.hr8{
+    margin-top: -15px;
+}
+.left{
+    padding: 0 10px 0 0;
+}
+.right{
+    padding: 0 0 0 10px;
+}
+.latest_arrivals_logo{padding: 20px 0 0 0;}
+.thumbnail_latest_shoes{}
+.thumbnail_latest_shoes>img{
+    padding: 0;
+}
+.thumbnail_latest_shoes>p{
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    padding-top: 14.5em;
+}
+.thumbnail_latest_shoes>h1{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    font-size: 25px;
+}
+.button{padding: 25px 0 0 0;}
+.button1{
+    padding: 7px 133px;
+    background: #463f3a;
+    font-size: 20px;
+}
+.button2{
+    padding: 7px 130px;
+    background: #463f3a;
+    font-size: 20px;
+}
+.button3{
+    padding: 7px 137px;
+    background: #463f3a;
+    font-size: 20px;
+}
+.button4{
+    padding: 7px 134px;
+    background: #463f3a;
+    font-size: 20px;
+}
+
+.button>a{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+.white_shoe{background: #fdfdfd;padding-left: 0;}
+.winter_shoe{
+    padding-left: 0;
+}
+.bullsy_snickers{
+    padding-left: 0;
+    padding-right: 8px;
+}
+.gray_snickers{
+    padding-right: 0;
+    padding-left: 8px;
+}
+
+
+/*latest arrivals*/
+
+/*featured product*/
+
+.featured_product{
+    background: #f8f8f8;
+    min-height: 560px;
+}
+.heading{
+    padding: 0;
+}
+.heading>h1{
+    font-family: 'Oswald', sans-serif;
+}
+.hr1{
+    margin-top: -36px;
+    border: 1px solid black;
+    display: block;
+    margin-bottom: 0;
+}
+.hr2{
+    margin: 0;
+    border: 1px solid black;
+    margin-top: -4px;
+}
+.hr3{
+    margin-top: -36px;
+    border: 1px solid black;
+    display: block;
+    margin-bottom: 0;
+}
+.hr4{
+    margin: 0;
+    border: 1px solid black;
+    margin-top: -4px;
+}
+.hr5{
+    margin-top: 4px;
+}
+.hr6{
+    margin-top: 4px;
+}
+.hr7{
+    margin-top: -15px;
+}
+.hr8{
+    margin-top: -15px;
+}
+.left{
+    padding: 0 10px 0 0;
+}
+.right{
+    padding: 0 0 0 10px;
+}
+.featured_product_logo{
+    padding: 20px 0 0 0;
+}
+.thumbnail_latest_shoes{}
+.thumbnail_latest_shoes>img{
+    padding: 0;
+    height: 253px;
+}
+.thumbnail_latest_shoes>p{
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    padding-top: 14.5em;
+}
+.thumbnail_latest_shoes>h1{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    font-size: 25px;
+}
+.button{padding: 25px 0 0 0;}
+.button5{
+    padding: 7px 133px;
+    background: #463f3a;
+    font-size: 20px;
+}
+.button6{
+    padding: 7px 130px;
+    background: #463f3a;
+    font-size: 20px;
+}
+.button7
+{
+    padding: 7px 137px;
+    background: #463f3a;
+    font-size: 20px;
+}
+.button8{
+    padding: 7px 133px;
+    background: #463f3a;
+    font-size: 20px;
+}
+
+.button>a{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+.running_snickers{
+    background: f8f8f8;
+    padding-left: 0;}
+.hiking_shoes{
+    padding-left: 0;
+}
+.waterproof{
+    padding-left: 0;
+    padding-right: 8px;
+}
+.warking_shoes{
+    padding-right: 0;
+    padding-left: 8px;
+    background: f8f8f8;
+}
+
+/*featured product*/
+
+/*latest from the blog*/
+
+.latest_from{
+    background: #ffffff;
+    min-height: 660px;
+}
+.heading{
+    padding: 0;
+}
+.heading>h1{
+    font-family: 'Oswald', sans-serif;
+}
+.hr1{
+    margin-top: -36px;
+    border: 1px solid black;
+    display: block;
+    margin-bottom: 0;
+}
+.hr2{
+    margin: 0;
+    border: 1px solid black;
+    margin-top: -4px;
+}
+.hr3{
+    margin-top: -36px;
+    border: 1px solid black;
+    display: block;
+    margin-bottom: 0;
+}
+.hr4{
+    margin: 0;
+    border: 1px solid black;
+    margin-top: -4px;
+}
+.hr5{
+    margin-top: 4px;
+}
+.hr6{
+    margin-top: 4px;
+}
+.hr7{
+    margin-top: -15px;
+}
+.hr8{
+    margin-top: -15px;
+}
+.left{
+    padding: 0 10px 0 0;
+}
+.right{
+    padding: 0 0 0 10px;
+}
+.latest_from_collection{
+    padding: 25px 0 0 0;
+}
+.latest_from_collection1{
+    padding-left: 0;
+
+
+}
+.latest_from_collection2{
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+.latest_from_collection3{
+    padding-right: 0;
+
+}
+.thumbnail_latest_shoes_collection{}
+.thumbnail_latest_shoes_collection>img{
+    margin: 0;
+    padding: 0;
+    padding-bottom: 20px;
+}
+.thumbnail_latest_shoes_collection>span{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    padding-left: 3px;
+    font-size: 25px;
+}
+.thumbnail_latest_shoes_collection>p{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    white-space: pre-line;
+    padding-top: 15px;
+    padding-left: 3px;
+}
+.thumbnail_latest_shoes_collection>h6{
+    margin: 0;
+    font-size: 21px;
+    font-family: 'Lato', sans-serif;
+    padding-left: 3px;
+    padding-bottom: 20px;
+}
+
+
+/*latest from the blog*/
+
+/*rugged store*/
+
+.rugged_store{
+    background: #f2f2f0;
+    min-height: 150px;
+}
+.rugged_store_contant{}
+.rugged_store_contant>h1{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    padding-top: 55px;
+    color: #4a4a4a;
+}
+.rugged_store_contant>p{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding-top: 10px;
+    color: #545454;
+}
+
+
+/*rugged store*/
+
+/*footer*/
+
+.footer{
+        background: #463f3a;
+    min-height: 180px;
+}
+.img1{
+
+    padding-top: 63px;
+}
+.span{
+    padding-left: 14px;
+}
+.img1>img{}
+.logo3{
+    padding-top: 75px;
+    padding-right: 7em;
+}
+.logo3{
+    padding-top: 75px;
+    padding-right: 7em;
+}
+.logo3>ul{}
+.logo3>ul>li{}
+.logo3>ul>li>a{
+        color: white;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+}
+.logo3>p{
+    color: white;
+    font-size: 12px;
+}
+.logo3{
+    padding-top: 70px;
+    padding-left: 17em;
+}
+
+
+/*footer*/
